@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+//eu posso usar a palavra doctype em letras minúsculas também ou o HTML em letras maiúsculas, de todas as combinações maiúsculas e minúsculas.
+<html>
+	<head>
+		<title></title>
+		<script src= ></script>
+	</head>
+</html>
